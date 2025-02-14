@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: demmo-001
+server:
+  port: 9991
